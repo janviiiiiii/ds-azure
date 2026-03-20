@@ -1,0 +1,9 @@
+{
+	"name": "janvifactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3edec922-72a6-4bc5-93d2-df9c764c13d0",
+		"tenantId": "bf31a74e-58c7-4699-9eb3-916b94951341"
+	}
+}
